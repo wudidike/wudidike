@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Dike
+# 👋 Hi, I'm Dike 
 
 **Security Researcher & AI Agent Builder**
 
@@ -107,3 +107,4 @@ URL liveness checker with title & status code extraction
 <img src="https://komarev.com/ghpvc/?username=wudidike&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
+
